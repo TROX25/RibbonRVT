@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ribbon", "Ribbon.csproj", "{AEF5FA8E-7255-4BE4-A36A-D38DEB124625}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_1", "..\WPF_1\WPF_1.csproj", "{FEE87891-D8E3-46C4-A74F-578DB72D7433}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{AEF5FA8E-7255-4BE4-A36A-D38DEB124625}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEF5FA8E-7255-4BE4-A36A-D38DEB124625}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEF5FA8E-7255-4BE4-A36A-D38DEB124625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE87891-D8E3-46C4-A74F-578DB72D7433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE87891-D8E3-46C4-A74F-578DB72D7433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE87891-D8E3-46C4-A74F-578DB72D7433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE87891-D8E3-46C4-A74F-578DB72D7433}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
