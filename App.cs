@@ -106,8 +106,9 @@ namespace Ribbon
     {
         public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
         {
-            WPF_1.MainWindow window = new WPF_1.MainWindow();
-            window.ShowDialog();  // Otwarcie okna WPF jako modalne
+            UIApplication uiapp = commandData.Application;
+            MainWindow window = new MainWindow(uiapp);
+            window.ShowDialog();  // Otwiera okno WPF
             return Result.Succeeded;
         }
     }
