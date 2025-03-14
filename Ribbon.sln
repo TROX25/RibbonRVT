@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ribbon", "Ribbon.csproj", "{AEF5FA8E-7255-4BE4-A36A-D38DEB124625}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_1", "..\WPF_1\WPF_1.csproj", "{FEE87891-D8E3-46C4-A74F-578DB72D7433}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_1", "WPF_1\WPF_1.csproj", "{FEE87891-D8E3-46C4-A74F-578DB72D7433}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

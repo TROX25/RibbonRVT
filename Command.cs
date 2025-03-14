@@ -25,7 +25,7 @@ namespace Ribbon
             Application app = uiapp.Application;
             Document doc = uidoc.Document;
 
-            TaskDialog.Show("123", "TEST TEST TEST \n TEST TEST TEST");
+            TaskDialog.Show("123", "TEST TEST TEST \n TEST TEST");
 
             return Result.Succeeded;
         }
