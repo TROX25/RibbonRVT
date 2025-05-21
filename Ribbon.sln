@@ -10,7 +10,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ikony", "Ikony", "{A44A54E5-4933-4DA9-A54A-6CC2C38EAE62}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\..\ICONS\Excel-Green.png = ..\..\..\ICONS\Excel-Green.png
-		..\..\..\ICONS\iron-bar_5672087.png = ..\..\..\ICONS\iron-bar_5672087.png
 	EndProjectSection
 EndProject
 Global
