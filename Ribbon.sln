@@ -9,7 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_1", "WPF_1\WPF_1.csproj
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ikony", "Ikony", "{A44A54E5-4933-4DA9-A54A-6CC2C38EAE62}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\ICONS\Excel-Green.png = ..\..\..\ICONS\Excel-Green.png
+		..\..\..\ICONS\Excel-Green.png.png = ..\..\..\ICONS\Excel-Green.png.png
+		..\..\..\ICONS\iron-bar_5672087.png = ..\..\..\ICONS\iron-bar_5672087.png
 	EndProjectSection
 EndProject
 Global
