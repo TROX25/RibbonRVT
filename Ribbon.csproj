@@ -75,6 +75,8 @@
     <Resource Include="Resources\test.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
+    <Content Include="Ikony\Excel-Green.png.png" />
+    <Content Include="Ikony\iron-bar_5672087.png" />
     <Content Include="Ribbon.addin" />
   </ItemGroup>
   <ItemGroup>
