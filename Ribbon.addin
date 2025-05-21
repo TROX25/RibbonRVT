@@ -6,7 +6,7 @@
     <Assembly>Ribbon.dll</Assembly>
     <FullClassName>Ribbon.Command</FullClassName>
     <ClientId>427055dd-0c73-4e51-8a4f-b69f4a674820</ClientId>
-    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorId>Piotr_Dziembowski</VendorId>
     <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
   </AddIn>
   <AddIn Type="Application">
@@ -14,7 +14,7 @@
     <Assembly>Ribbon.dll</Assembly>
     <FullClassName>Ribbon.App</FullClassName>
     <ClientId>8a760412-3946-4ac3-b42e-4e3a30a0d7fd</ClientId>
-    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorId>Piotr_Dziembowski</VendorId>
     <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
   </AddIn>
 </RevitAddIns>

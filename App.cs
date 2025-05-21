@@ -20,7 +20,7 @@ namespace Ribbon
         {
             
                 // Ribbon
-                String tabName = "Meet the engineer";
+                String tabName = "Moment";
                 a.CreateRibbonTab(tabName);
 
                 // Panels
@@ -91,25 +91,5 @@ namespace Ribbon
             }
         }
     }
-
-    [Transaction(TransactionMode.Manual)]
-    public class MyTest : IExternalCommand
-    {
-        public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
-        {
-            TaskDialog.Show("123", "TEST TEST TEST \n TEST TEST TEST");
-            return Result.Succeeded;
-        }
-    }
-    [Transaction(TransactionMode.Manual)]
-    public class Excel : IExternalCommand
-    {
-        public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
-        {
-            UIApplication uiapp = commandData.Application;
-            MainWindow window = new MainWindow(uiapp);
-            window.ShowDialog();  // Otwiera okno WPF
-            return Result.Succeeded;
-        }
-    }
+    
 }
